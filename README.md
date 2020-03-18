@@ -1,1 +1,1 @@
-# gql-react-playground
+React and GraphQL playground with Expres
